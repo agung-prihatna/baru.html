@@ -1,0 +1,111 @@
+.logoeduwork{
+    margin-top: 25px;
+    width: 150px;
+    height: 28px;
+}
+
+#menu {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.home {
+    padding-right: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px ;
+}
+
+.kelas {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px ;
+}
+
+.hubungiadmin {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px ;
+}
+
+.login {
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: solid;
+    width: 80px;
+    background: rgb(24, 124, 225);
+    color: rgb(24, 124, 225);
+}
+
+.text-login {
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(229, 231, 235);
+}
+
+.register {
+    margin-top: 30px;
+    border-radius: 20px;
+    border: solid;
+    width: 80px;
+    background: rgb(24, 124, 225);
+    color: rgb(24, 124, 225);
+}
+
+.text-register {
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(229, 231, 235);
+}
+
+.daftar {
+    width: 300px;
+    height: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.paragraf-kiri  {
+    margin-top: 50px;
+    border: solid;
+    border-style: none;
+    border-radius: none;
+    background: none;
+    text-align: justify;
+    font-size: 15px;
+    width: 400px;
+    padding-left: 50px;
+}
+
+.div-button-class {
+    margin-top: 50px;
+}
+
+.button-daftar-geratis {
+    border: 5px;
+    border-radius: 7px;
+    background: rgb(24, 124, 225);
+    margin-right: 10px;
+    width: 175px;
+    height: 45px;
+    
+}
+
+.text-link-daftar-gratis {
+    text-decoration: none;
+    color: rgb(229, 231, 235);
+    text-align: justify;
+    font-size: 15px;
+}
+
+.rounded-float-end {
+    margin: 0px;
+}
+
+.text-running {
+    border: 5px;
+}
